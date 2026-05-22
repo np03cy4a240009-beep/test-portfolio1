@@ -63,7 +63,6 @@ function App() {
     }
 
     return `https://${value}`
-  
 
   return (
     <div className="app-root">
